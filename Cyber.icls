@@ -1,10 +1,10 @@
-<scheme name="High contrast" version="142" parent_scheme="Darcula">
+<scheme name="High contrast copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-07-21T18:44:11</property>
+    <property name="created">2023-01-01T02:48:37</property>
     <property name="ide">GoLand</property>
-    <property name="ideVersion">2022.1.4.0.0</property>
-    <property name="modified">2022-07-21T18:44:26</property>
-    <property name="originalScheme">_@user_High contrast</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-01-01T02:48:53</property>
+    <property name="originalScheme">High contrast copy</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="9924" />
@@ -37,7 +37,7 @@
     <option name="FILESTATUS_changelistConflict" value="ff6666" />
     <option name="FILESTATUS_modifiedOutside" value="4ff0ff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
-    <option name="GUTTER_BACKGROUND" value="131314" />
+    <option name="GUTTER_BACKGROUND" value="20202" />
     <option name="INDENT_GUIDE" value="666666" />
     <option name="INFORMATION_HINT" value="450073" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cccccc8c" />
@@ -74,7 +74,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -105,6 +105,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="ffffff" />
       </value>
     </option>
@@ -821,7 +822,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ebebeb" />
-        <option name="BACKGROUND" value="131314" />
+        <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
